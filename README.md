@@ -1,6 +1,6 @@
 # fridge
 
-list all your groceries and get suggested recipe
+list all your groceries and get suggested recipes
 
 ## Getting Started
 
