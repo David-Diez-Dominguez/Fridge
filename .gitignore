@@ -49,3 +49,4 @@ app.*.map.json
 #own added files to ignore
 android/local.properties
 .android/local.properties
+local.properties
